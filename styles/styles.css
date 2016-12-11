@@ -1,0 +1,21 @@
+body {
+	display:block;
+	margin:auto;
+	padding:0;
+    background: url(../images/homepage.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+li {
+	display:inline;
+}
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	display:block;
+	background-color:#f9770c;
+}
+p {
+	font-color:#f9770c;
+}
